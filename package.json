@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrankFang/nodejs-test.git"
+    "url": "git+https://github.com/mimi3824ku/nodejs-test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FrankFang/nodejs-test/issues"
+    "url": "https://github.com/mimi3824ku/nodejs-test/issues"
   },
-  "homepage": "https://github.com/FrankFang/nodejs-test#readme"
+  "homepage": "https://github.com/mimi3824ku/nodejs-test#readme"
 }
